@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=VCAN.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=VCAN.SchDoc|Designator=Core|SchDesignator=Core|FileName=Core.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Core.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=VCAN.SchDoc|Designator=FDCAN-ISO|SchDesignator=FDCAN-ISO|FileName=FDCAN-ISO.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=FDCAN-ISO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=VCAN.SchDoc|Designator=FDCAN-ISO|SchDesignator=FDCAN-ISO|FileName=FDCAN-ISO.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=FDCAN-ISO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=VCAN.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
